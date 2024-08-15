@@ -1,0 +1,21 @@
+title: Flushed Away
+originalAuthor: Shananas
+game: kh2
+description: C^shhhhuuuuussssshhhhhhhhhhhhuuuuuuuuuuuuuu
+assets:
+- method: binarc
+  name: ard/us/dc02.ard
+  source:
+  - method: spawnpoint
+    name: b_11
+    source:
+    - name: b_11.yml
+    type: AreaDataSpawn
+- method: binarc
+  name: ard/us/dc00.ard
+  source:
+  - method: spawnpoint
+    name: b_41
+    source:
+    - name: b_41.yml
+    type: AreaDataSpawn
