@@ -5,6 +5,11 @@ description: C^shhhhuuuuussssshhhhhhhhhhhhuuuuuuuuuuuuuu
 assets:
 - method: binarc
   name: ard/us/dc02.ard
+  - name: ard/fr/dc02.ard
+  - name: ard/gr/dc02.ard
+  - name: ard/it/dc02.ard
+  - name: ard/sp/dc02.ard
+  - name: ard/dc02.ard
   source:
   - method: spawnpoint
     name: b_11
@@ -13,6 +18,11 @@ assets:
     type: AreaDataSpawn
 - method: binarc
   name: ard/us/dc00.ard
+  - name: ard/fr/dc00.ard
+  - name: ard/gr/dc00.ard
+  - name: ard/it/dc00.ard
+  - name: ard/sp/dc00.ard
+  - name: ard/dc00.ard
   source:
   - method: spawnpoint
     name: b_41
